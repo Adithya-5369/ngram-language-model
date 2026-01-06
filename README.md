@@ -90,13 +90,6 @@ The model generates continuations in the style of Jane Austen.
 
 ---
 
-## 📄 Output
-
-* The notebook prints the generated text for each input prompt.
-* The sample outputs are also saved separately as a **PDF** for submission.
-
----
-
 ## 📁 Project Structure
 
 ```
